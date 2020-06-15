@@ -1,0 +1,6 @@
+{
+    "errorCount" : 10,
+    "meanResTime" : "<3.0",
+    "pct1ResTime" : ">5.0",
+    "throughput" : "30"
+  }

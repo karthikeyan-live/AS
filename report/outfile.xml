@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="transaction" Type="System.String">GET Posts</Property>
+    <Property Name="sampleCount" Type="System.Int64">1</Property>
+    <Property Name="errorCount" Type="System.Int64">0</Property>
+    <Property Name="errorPct" Type="System.Double">0</Property>
+    <Property Name="meanResTime" Type="System.Double">1</Property>
+    <Property Name="medianResTime" Type="System.Double">1</Property>
+    <Property Name="minResTime" Type="System.Double">1</Property>
+    <Property Name="maxResTime" Type="System.Double">1</Property>
+    <Property Name="pct1ResTime" Type="System.Double">1</Property>
+    <Property Name="pct2ResTime" Type="System.Double">1</Property>
+    <Property Name="pct3ResTime" Type="System.Double">1</Property>
+    <Property Name="throughput" Type="System.Double">1000</Property>
+    <Property Name="receivedKBytesPerSec" Type="System.Double">247.0703125</Property>
+    <Property Name="sentKBytesPerSec" Type="System.Double">118.1640625</Property>
+    <Property Name="expected_errorCount" Type="System.Int64">10</Property>
+    <Property Name="expected_meanResTime" Type="System.String">&lt;3.0</Property>
+    <Property Name="expected_pct1ResTime" Type="System.String">&gt;5.0</Property>
+    <Property Name="expected_throughput" Type="System.String">30</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="transaction" Type="System.String">Total</Property>
+    <Property Name="sampleCount" Type="System.Int64">2</Property>
+    <Property Name="errorCount" Type="System.Int64">0</Property>
+    <Property Name="errorPct" Type="System.Double">0</Property>
+    <Property Name="meanResTime" Type="System.Double">31.5</Property>
+    <Property Name="medianResTime" Type="System.Double">31.5</Property>
+    <Property Name="minResTime" Type="System.Double">1</Property>
+    <Property Name="maxResTime" Type="System.Double">62</Property>
+    <Property Name="pct1ResTime" Type="System.Double">62</Property>
+    <Property Name="pct2ResTime" Type="System.Double">62</Property>
+    <Property Name="pct3ResTime" Type="System.Double">62</Property>
+    <Property Name="throughput" Type="System.Double">30.303030303030305</Property>
+    <Property Name="receivedKBytesPerSec" Type="System.Double">7.486979166666666</Property>
+    <Property Name="sentKBytesPerSec" Type="System.Double">3.5807291666666665</Property>
+    <Property Name="expected_errorCount" Type="System.Int64">10</Property>
+    <Property Name="expected_meanResTime" Type="System.String">&lt;3.0</Property>
+    <Property Name="expected_pct1ResTime" Type="System.String">&gt;5.0</Property>
+    <Property Name="expected_throughput" Type="System.String">30</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="transaction" Type="System.String">GET Users</Property>
+    <Property Name="sampleCount" Type="System.Int64">1</Property>
+    <Property Name="errorCount" Type="System.Int64">0</Property>
+    <Property Name="errorPct" Type="System.Double">0</Property>
+    <Property Name="meanResTime" Type="System.Double">62</Property>
+    <Property Name="medianResTime" Type="System.Double">62</Property>
+    <Property Name="minResTime" Type="System.Double">62</Property>
+    <Property Name="maxResTime" Type="System.Double">62</Property>
+    <Property Name="pct1ResTime" Type="System.Double">62</Property>
+    <Property Name="pct2ResTime" Type="System.Double">62</Property>
+    <Property Name="pct3ResTime" Type="System.Double">62</Property>
+    <Property Name="throughput" Type="System.Double">16.129032258064516</Property>
+    <Property Name="receivedKBytesPerSec" Type="System.Double">3.9850050403225805</Property>
+    <Property Name="sentKBytesPerSec" Type="System.Double">1.9058719758064517</Property>
+    <Property Name="expected_errorCount" Type="System.Int64">10</Property>
+    <Property Name="expected_meanResTime" Type="System.String">&lt;3.0</Property>
+    <Property Name="expected_pct1ResTime" Type="System.String">&gt;5.0</Property>
+    <Property Name="expected_throughput" Type="System.String">30</Property>
+  </Object>
+</Objects>

@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1592224215332,62,GET Users,200,OK,Thread Group 1-1,text,true,,253,121,1,1,http://localhost:3000/users,59,0,47
+1592224215397,1,GET Posts,200,OK,Thread Group 1-1,text,true,,253,121,1,1,http://localhost:3000/posts,1,0,0
